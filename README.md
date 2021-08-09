@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/rajeever35/sklearn_kubernetes_udacity.svg?style=svg)](https://app.circleci.com/pipelines/github/rajeever35/sklearn_kubernetes_udacity)
+[![CircleCI](https://circleci.com/gh/VamsiChaitanya50/OperationalizeMachineLearningAPI/tree/master.svg?style=svg)](https://circleci.com/gh/VamsiChaitanya50/OperationalizeMachineLearningAPI/tree/master)
 
 # sklearn_kubernetes_udacity
 
