@@ -1,0 +1,23 @@
+# Output of run_kubernetes.sh after running make_prediction.sh 
+
+(.devops) ➜  sklearn_kubernetes_udacity git:(main) ✗ ./run_kubernetes.sh
+Flag --generator has been deprecated, has no effect and will be removed in the future.
+Error from server (AlreadyExists): pods "houserent2" already exists
+NAME         READY   STATUS    RESTARTS   AGE
+houserent1   1/1     Running   0          23m
+houserent2   1/1     Running   0          4m11s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
+Handling connection for 8000
+
+# Output of make_prediction.sh
+
+(.devops) ➜  sklearn_kubernetes_udacity git:(main) ✗ ./make_prediction.sh
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
