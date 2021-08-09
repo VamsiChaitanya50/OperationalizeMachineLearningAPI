@@ -23,7 +23,7 @@ Make sure to have
 
 ## Clone the repository
 
-- > git clone git@github.com:rajeever35/sklearn_kubernetes_udacity.git
+- > git clone git@github.com:VamsiChaitanya50/OperationalizeMachineLearningAPI.git
 - > cd sklearn_kubernetes_udacity
 
 ## Setup the Environment
